@@ -1,0 +1,1 @@
+/* Updated App logic with dual language */
